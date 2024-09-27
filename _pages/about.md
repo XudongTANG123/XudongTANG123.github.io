@@ -69,11 +69,13 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 
 # 📖 Educations
 - *2024.09 - Now*, The Hong Kong polytechnic University, Msc Intelligent Construction
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
+
 # 💻 Internships
 - 🎓During My Bachelor's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
